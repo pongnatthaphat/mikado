@@ -15,3 +15,5 @@
 127.0.0.1                   ccleaner.piriform.com
 127.0.0.1                   www.ccleaner.piriform.com
 127.0.0.1                   license-api.ccleaner.com
+
+127.0.0.1                   cdend.com
