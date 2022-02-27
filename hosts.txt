@@ -16,4 +16,14 @@
 127.0.0.1                   www.ccleaner.piriform.com
 127.0.0.1                   license-api.ccleaner.com
 
-127.0.0.1                   cdend.com
+127.0.0.1  cdend.com
+127.0.0.1 blogger.googleusercontent.com
+127.0.0.1 2.bp.blogspot.com
+127.0.0.1 overmovies.com
+127.0.0.1 1.bp.blogspot.com
+127.0.0.1 i.imgur.com
+127.0.0.1 cdend.com
+127.0.0.1 googles.video
+127.0.0.1 stream.series-nanime.com
+
+
