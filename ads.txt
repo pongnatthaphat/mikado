@@ -1,0 +1,7 @@
+0.0.0.0		blogger.googleusercontent.com
+0.0.0.0		2.bp.blogspot.com
+0.0.0.0		overmovies.com
+0.0.0.0		1.bp.blogspot.com
+0.0.0.0		i.imgur.com
+0.0.0.0		cdend.com
+0.0.0.0		googles.video
