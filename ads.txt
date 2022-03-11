@@ -1,12 +1,5 @@
 !True ADS
-||cdn065.stm.trueid.net^
-||cdn066.stm.trueid.net^
-||cdn067.stm.trueid.net^
-||cdn077.stm.trueid.net^
-||cdn782.stm.trueid.net^
-||cdn783.stm.trueid.net^
-||cdn784.stm.trueid.net^
-||cdn857.stm.trueid.net^
+||cdn*.stm.trueid.net^$important
 
 !All-Web ads
 ||i.imgur.com^$important
