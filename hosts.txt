@@ -16,16 +16,5 @@
 127.0.0.1                   www.ccleaner.piriform.com
 127.0.0.1                   license-api.ccleaner.com
 
-||cdend.com^
-||blogger.googleusercontent.com^
-||2.bp.blogspot.com^
-||overmovies.com^
-||1.bp.blogspot.com^
-||i.imgur.com^
-||googles.video^
-||i1.wp.com/animeindy.com/wp-content/uploads/2021/07/ufazeed_140x250.webp
-||animeindy.com/wp-content/uploads/2022/02/tong88v3.gif
-||i1.wp.com/animeindy.com/wp-content/uploads/2021/05/kingdom.webp
-||animeindy.com/wp-content/uploads/2022/01/taotong88.gif
 
 
