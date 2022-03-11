@@ -9,8 +9,8 @@
 ||cdn857.stm.trueid.net^
 
 !All-Web ads
-||i.imgur.com^
-||*.bp.blogspot.com^
-||cdend.com^
-||googles.video^
-||*.wp.com^
+||i.imgur.com^$important
+||*.bp.blogspot.com^$important
+||cdend.com^$important
+||googles.video^$important
+||*.wp.com^$important
