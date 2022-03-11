@@ -6,7 +6,6 @@
 ||cdn784.stm.trueid.net^
 ||cdn857.stm.trueid.net^
 ||*.stm.trueid.net^
-||mobile-collector.newrelic.com^
 
 !All-Web ads
 ||i.imgur.com^
