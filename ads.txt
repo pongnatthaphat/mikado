@@ -1,1 +1,6 @@
+!True ADS
+||cdn066.stm.trueid.net^
+||cdn067.stm.trueid.net^
+||cdn077.stm.trueid.net^
 ||cdn783.stm.trueid.net^
+||cdn784.stm.trueid.net^
