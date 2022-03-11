@@ -1,3 +1,10 @@
 !True ADS
 ||cdn*.stm.trueid.net^
 ||mobile-collector.newrelic.com^
+
+!All-Web ads
+||i.imgur.com^
+||*.bp.blogspot.com^
+||cdend.com^
+||googles.video^
+||*.wp.com^
