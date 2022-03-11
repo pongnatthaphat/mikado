@@ -1,5 +1,11 @@
 !True ADS
 ||cdn*.stm.trueid.net^$important
+||cms-*.trueid.net^$important
+||kd.stm.trueid.net^$important
+||thpq3mp1lg7s0eu7tsq7pfj6q.litix.io^$important
+||content-public-api.trueid.net^$important
+||dmpapi2.trueid.net^$important
+||graph.trueid.net^$important
 
 !All-Web ads
 ||i.imgur.com^$important
