@@ -1,5 +1,13 @@
 !True ADS
-||*.stm.trueid.net^$important
+||cdn065.stm.trueid.net^$important
+||cdn066.stm.trueid.net^$important
+||cdn067.stm.trueid.net^$important
+||cdn077.stm.trueid.net^$important
+||cdn782.stm.trueid.net^$important
+||cdn783.stm.trueid.net^$important
+||cdn784.stm.trueid.net^$important
+||cdn857.stm.trueid.net^$important
+||hccu.stm.trueid.net^$important
 ||cms-*.trueid.net^$important
 ||kd.stm.trueid.net^$important
 ||thpq3mp1lg7s0eu7tsq7pfj6q.litix.io^$important
