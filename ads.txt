@@ -1,4 +1,6 @@
 !True ADS
+||cdn*.stm.trueid.net^$important
+||cms-*.trueid.net^$important
 ||cdn065.stm.trueid.net^$important
 ||cdn066.stm.trueid.net^$important
 ||cdn067.stm.trueid.net^$important
