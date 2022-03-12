@@ -6,7 +6,7 @@
 ||content-public-api.trueid.net^$important
 ||dmpapi2.trueid.net^$important
 ||graph.trueid.net^$important
-||true-ott-app-db13.firebaseio.com^$important
+@@||true-ott-app-db13.firebaseio.com^$important
 ||hccu.stm.trueid.net^$important
 
 !All-Web ads
