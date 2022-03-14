@@ -25,6 +25,8 @@
 ||pubads.g.doubleclick.net^
 ||us-central1-true-ott-app-cloudfunctions.net^
 ||s-usc1c-nss-266-firebaseio.com^
+||geoservice.stm.trueid.net^
+||www.google-analytics.com^
 
 !All-Web ads
 ||i.imgur.com^
