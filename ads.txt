@@ -19,10 +19,12 @@
 ||graph.trueid.net^
 ||firebaseremoteconfig.googleapis.com^
 ||true-ott-app-db13.firebaseio.com^
-||mobile-collector.newrelic^
+||mobile-collector.newrelic.com^
 ||imasdk.googleapis.com^
 ||ow.pubmatic.com^
 ||pubads.g.doubleclick.net^
+||us-central1-true-ott-app-cloudfunctions.net^
+||s-usc1c-nss-266-firebaseio.com^
 
 !All-Web ads
 ||i.imgur.com^
