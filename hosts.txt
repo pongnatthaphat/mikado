@@ -25,6 +25,9 @@
 127.0.0.1                   cdn783.stm.trueid.net
 127.0.0.1                   cdn784.stm.trueid.net
 127.0.0.1                   cdn857.stm.trueid.net
-
+127.0.0.1                   hccu.stm.trueid.net
+127.0.0.1                   kd.stm.trueid.net
+127.0.0.1                   cms-fn-dmpapi.trueid.net
+127.0.0.1                   cms-streamer-dmpapi.trueid.net
 
 
