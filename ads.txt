@@ -13,6 +13,7 @@
 ||kd.stm.trueid.net^$app=com.truedmp.idtv,important
 ||cms-fn-dmpapi.trueid.net^$app=com.truedmp.idtv,important
 ||cms-streamer-dmpapi.trueid.net^$app=com.truedmp.idtv,important
+||cms-sccmixer-dmpapi.trueid.net^$app=com.truedmp.idtv,important
 ||thpq3mp1lg7s0eu7tsq7pfj6q.litix.io^$app=com.truedmp.idtv,important
 ||content-public-api.trueid.net^$app=com.truedmp.idtv,important
 ||dmpapi2.trueid.net^$app=com.truedmp.idtv,important
@@ -27,6 +28,9 @@
 ||s-usc1c-nss-266-firebaseio.com^$app=com.truedmp.idtv,important
 ||geoservice.stm.trueid.net^$app=com.truedmp.idtv,important
 ||www.google-analytics.com^$app=com.truedmp.idtv,important
+||storage.googleapis.com^$app=com.truedmp.idtv,important
+||api.trueyou.co.th^$app=com.truedmp.idtv,important
+||api.themoviedb.org^$app=com.truedmp.idtv,important
 
 !All-Web ads
 ||i.imgur.com^
