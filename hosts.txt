@@ -17,17 +17,4 @@
 127.0.0.1                   license-api.ccleaner.com
 
 
-127.0.0.1                   cdn065.stm.trueid.net
-127.0.0.1                   cdn066.stm.trueid.net
-127.0.0.1                   cdn067.stm.trueid.net
-127.0.0.1                   cdn077.stm.trueid.net
-127.0.0.1                   cdn782.stm.trueid.net
-127.0.0.1                   cdn783.stm.trueid.net
-127.0.0.1                   cdn784.stm.trueid.net
-127.0.0.1                   cdn857.stm.trueid.net
-127.0.0.1                   hccu.stm.trueid.net
-127.0.0.1                   kd.stm.trueid.net
-127.0.0.1                   cms-fn-dmpapi.trueid.net
-127.0.0.1                   cms-streamer-dmpapi.trueid.net
-
 
