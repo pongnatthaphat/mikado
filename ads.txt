@@ -31,6 +31,7 @@
 ||storage.googleapis.com^$app=com.truedmp.idtv,important
 ||api.trueyou.co.th^$app=com.truedmp.idtv,important
 ||api.themoviedb.org^$app=com.truedmp.idtv,important
+||^$app=com.truedmp.idtv,important
 
 !All-Web ads
 ||i.imgur.com^
