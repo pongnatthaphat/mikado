@@ -1,12 +1,4 @@
-||cdn025.stm.trueid.net^
-||cdn065.stm.trueid.net^
-||cdn066.stm.trueid.net^
-||cdn067.stm.trueid.net^
-||cdn077.stm.trueid.net^
-||cdn782.stm.trueid.net^
-||cdn783.stm.trueid.net^
-||cdn784.stm.trueid.net^
-||cdn857.stm.trueid.net^
+||cdn*.stm.trueid.net^
 ||hccu.stm.trueid.net^
 ||kd.stm.trueid.net^
 ||cms-fn-dmpapi.trueid.net^
@@ -18,19 +10,3 @@
 ||firebaseremoteconfig.googleapis.com^
 ||true-ott-app-db13.firebaseio.com^
 ||s-usc1c-nss-266.firebaseio.com^
-
-! AnimeIndy
-||i0.wp.com/anime-indy.com/wp-content/uploads/202*/*/^
-||anime-indy.com/wp-content/uploads/202*/*/^
-||anime-indy.com/wp-content/uploads/202*/*/^
-||anime-indy.com/wp-content/uploads/202*/*/^
-
-! 20 พ.ย. 2567 https://www.animehdzeroo.com
-||img.shirokami.me/images/202*/*/*/^
-||images.shirokami.me/i/^
-||images.shirokami.me/i/^
-||img.shirokami.me/images/2024/04/14/^
-||www.shibaanime.com/assets/^
-
-! 20 พ.ย. 2567 https://www.anime-masters.com
-||www.anime-masters.com/upload/^
