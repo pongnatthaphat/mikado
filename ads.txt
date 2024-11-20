@@ -39,3 +39,5 @@
 ||cdend.com^
 ||googles.video^
 ||*.wp.com^
+
+127.0.0.1 blogger.googleusercontent.com
