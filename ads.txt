@@ -11,3 +11,5 @@
 ||img.shirokami.me/images/2024/04/14/10b374d1fd03e79086cae3985531b9cb.jpg$image
 ||www.shibaanime.com/assets/x-b.jpg$image
 
+! 20 พ.ย. 2567 https://www.anime-masters.com
+||www.anime-masters.com/upload/*.gif$image
