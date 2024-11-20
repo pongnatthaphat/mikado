@@ -40,4 +40,8 @@
 ||googles.video^
 ||*.wp.com^
 
-127.0.0.1 blogger.googleusercontent.com
+!Anime-indy.com ads
+||i0.wp.com/anime-indy.com/wp-content/uploads/202*/*/*.gif
+||anime-indy.com/wp-content/uploads/202*/*/*.gif
+||anime-indy.com/wp-content/uploads/202*/*/Banner*
+||anime-indy.com/wp-content/uploads/202*/*/*.webp
