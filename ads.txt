@@ -1,3 +1,4 @@
+! AnimeIndy
 ||i0.wp.com/anime-indy.com/wp-content/uploads/202*/*/*.gif
 ||anime-indy.com/wp-content/uploads/202*/*/*.gif
 ||anime-indy.com/wp-content/uploads/202*/*/Banner*
