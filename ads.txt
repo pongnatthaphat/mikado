@@ -33,13 +33,6 @@
 ||api.themoviedb.org^$app=com.truedmp.idtv,important
 ||^$app=com.truedmp.idtv,important
 
-!All-Web ads
-||i.imgur.com^
-||*.bp.blogspot.com^
-||cdend.com^
-||googles.video^
-||*.wp.com^
-
 !Anime-indy.com ads
 ||i0.wp.com/anime-indy.com/wp-content/uploads/202*/*/*.gif
 ||anime-indy.com/wp-content/uploads/202*/*/*.gif
