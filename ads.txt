@@ -4,3 +4,10 @@
 ||anime-indy.com/wp-content/uploads/202*/*/Banner*
 ||anime-indy.com/wp-content/uploads/202*/*/*.webp
 
+! 20 พ.ย. 2567 https://www.animehdzeroo.com
+||img.shirokami.me/images/202*/*/*/*.gif$image
+||images.shirokami.me/i/*.jpg$image
+||images.shirokami.me/i/OiCz3241.gif$image
+||img.shirokami.me/images/2024/04/14/10b374d1fd03e79086cae3985531b9cb.jpg$image
+||www.shibaanime.com/assets/x-b.jpg$image
+
