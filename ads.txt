@@ -36,3 +36,9 @@
 ||www.037hdmovie.com/wp-content/uploads/202*/*/*728x200*$image
 ||www.037hdmovie.com/wp-content/uploads/202*/*/*.gif$image
 ||www.037hdmovie.com/wp-content/uploads/202*/*/*728x360*.jpg$image
+
+! 21 พ.ย. 2567 https://www.anime-suba.com
+||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/*$image
+
+! 21 พ.ย. 2567 https://www.iq.com
+www.iq.com##.pop-up-container
