@@ -13,3 +13,26 @@
 
 ! 20 พ.ย. 2567 https://www.anime-masters.com
 ||www.anime-masters.com/upload/*.gif$image
+
+! 21 พ.ย. 2567 https://kserietv.co
+||kserietv.co/wp-content/uploads/202*/*/*.gif$image
+||kserietv.co/wp-content/uploads/202*/*/BAN*.jpg$image
+
+! 21 พ.ย. 2567 https://www.24-hd.com
+||www.24-hd.com/wp-content/uploads/202*.gif$image
+
+! 21 พ.ย. 2567 https://series4k.co
+||series4k.co/images/banners/Ads*$image
+||series4k.co/images/banners/*$image
+
+! 21 พ.ย. 2567 https://animeshiro.com
+||blogger.googleusercontent.com/img/b/*$image
+
+! 21 พ.ย. 2567 https://www.123-hd.com
+||www.123-hd.com/wp-content/uploads/202*/*/728x200*$image
+
+! 21 พ.ย. 2567 https://www.037hdmovie.com
+||www.037hdmovie.com/wp-content/uploads/202*/*/*728x180*.gif$image
+||www.037hdmovie.com/wp-content/uploads/202*/*/*728x200*$image
+||www.037hdmovie.com/wp-content/uploads/202*/*/*.gif$image
+||www.037hdmovie.com/wp-content/uploads/202*/*/*728x360*.jpg$image
