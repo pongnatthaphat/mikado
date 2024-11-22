@@ -40,3 +40,10 @@
 ! 21 พ.ย. 2567 https://www.anime-suba.com
 ||www.anime-suba.com/Anime-Suba/Admin/imgAnadvertisement/*$image
 
+! 22 พ.ย. 2567 https://blog.i-loadzone.com
+blog.i-loadzone.com##.styles-module_container_xuywD.gliaplayer-container
+
+! 22 พ.ย. 2567 https://i-loadzone.com
+i-loadzone.com##.styles-module_container_xuywD.gliaplayer-container
+
+
