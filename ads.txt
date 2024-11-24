@@ -46,4 +46,11 @@ blog.i-loadzone.com##.styles-module_container_xuywD.gliaplayer-container
 ! 22 พ.ย. 2567 https://i-loadzone.com
 i-loadzone.com##.styles-module_container_xuywD.gliaplayer-container
 
+! 24 พ.ย. 2567 https://fwiptv.tv
+||imagedelivery.net/*$image
+
+! 24 พ.ย. 2567 https://movie22hd.com
+movie22hd.com##.ads-player
+
+
 
