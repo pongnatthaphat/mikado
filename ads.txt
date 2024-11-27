@@ -58,5 +58,8 @@ colabtutorials.com##.styles-module_container_xuywD.gliaplayer-container
 ! 27 พ.ย. 2567 https://mukohphetra.com
 mukohphetra.com##.styles-module_container_xuywD.gliaplayer-container
 
+! 27 พ.ย. 2567 https://axeload.com
+axeload.com###ppsPopupBgOverlay
+
 
 
