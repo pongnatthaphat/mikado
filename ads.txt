@@ -3,6 +3,10 @@
 ||anime-indy.com/wp-content/uploads/202*/*/*.gif
 ||anime-indy.com/wp-content/uploads/202*/*/Banner*
 ||anime-indy.com/wp-content/uploads/202*/*/*.webp
+! 5 เม.ย. 2569 https://indy-anime.net
+indy-anime.net##.mb-no-p.bg-none.container.a_head
+indy-anime.net##.d-inline-block.watch-bnn
+indy-anime.net##.py-2.video-content.watch-bnn
 
 ! 20 พ.ย. 2567 https://www.animehdzeroo.com
 ||img.shirokami.me/images/202*/*/*/*.gif$image
