@@ -106,6 +106,17 @@ fairyanime.net###floating-banner-container
 ||i0.wp.com/anime-indy.net/wp-content/uploads/202*/*/*.gif$image
 indy.team-indy.net###overlay
 
+! 5 เม.ย. 2569 https://anime-hdzero.com
+anime-hdzero.com##.cb-header
+anime-hdzero.com##.floating-ads-l
+anime-hdzero.com##.floating-ads-r
+
+! 5 เม.ย. 2569 https://anime-infy.com
+anime-infy.com##.p-0.ads-zone.col-sm-12
+anime-infy.com##.m-0.row
+anime-infy.com##.text-center.watch-bnn
+anime-infy.com##.video-content.watch-bnn
+
 
 
 
