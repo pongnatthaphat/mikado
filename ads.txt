@@ -83,6 +83,9 @@ animehdzerooo.com##.col-lg-3 > .align-items-center.d-flex > .mb-3.bg-dark.text-w
 
 ! 14 ต.ค. 2568 https://fairyanime.net
 ||i.imgur.com/t1OMSCn.png$image
+fairyanime.net###floating-banner-container-left
+fairyanime.net###floating-banner-container
+||banner.tonytonychopper.com/directory/fairy/*$image
 
 ! 15 ต.ค. 2568 https://www.anime-masters.com
 ||www.anime-masters.com/upload/ufagpt.jpg?v=11$image
