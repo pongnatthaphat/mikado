@@ -1,5 +1,45 @@
-! AnimeIndy
-||i0.wp.com/anime-indy.com/wp-content/uploads/202*/*/*.gif$image
-||anime-indy.com/wp-content/uploads/202*/*/*.gif$image
-||anime-indy.com/wp-content/uploads/202*/*/Banner*$image
-||anime-indy.com/wp-content/uploads/202*/*/*.webp$image
+! 5 เม.ย. 2569 https://indy-anime.net
+indy-anime.net##.mb-no-p.bg-none.container.a_head
+indy-anime.net##.d-inline-block.watch-bnn
+indy-anime.net##.py-2.video-content.watch-bnn
+
+! 5 เม.ย. 2569 https://indy.team-indy.net
+indy.team-indy.net##.overlay-link
+
+! 5 เม.ย. 2569 https://fairyanime.net
+fairyanime.net###floating-banner-container-left
+fairyanime.net###floating-banner-container
+||banner.tonytonychopper.com/*$image
+
+! 5 เม.ย. 2569 https://anime-hdzero.com
+||img-cdn.shirokami.me/202*/*/*/160x600*$image
+||image.cdend.com/wp-content/uploads/*/*/728x90*$image
+anime-hdzero.com##.col-lg-12
+anime-hdzero.com##[href^="https://djun88.vip/"]
+anime-hdzero.com##[href^="https://7893233.com/Register"]
+anime-hdzero.com##.floating-ads-l
+
+! 5 เม.ย. 2569 https://anime-infy.com
+anime-infy.com##.p-0.ads-zone.col-sm-12
+anime-infy.com##.widget_media_image.text-right.p-0.col-2-5.col-3.col-md-1.ads_l_float > [href]
+anime-infy.com##[href="https://ibit.ly/lockdown168"]
+anime-infy.com##.text-center.ads_bottom
+anime-infy.com##.text-center.watch-bnn
+
+! 5 เม.ย. 2569 https://moji.team-indy.net
+moji.team-indy.net##.overlay-link
+
+! 5 เม.ย. 2569 https://lnwanime.com
+!lnwanime.com##.lg\:px-8.sm\:px-6.px-4.pb-15.mx-auto.max-w-screen-xl
+lnwanime.com##.py-10
+lnwanime.com##.floating-ads-b-img
+lnwanime.com##.floating-ads-l
+lnwanime.com##.floating-ads-r
+lnwanime.com##.bg-gray-900.relative > .lg\:px-8.sm\:px-6.px-4.pb-15.mx-auto.max-w-screen-xl
+lnwanime.com##div > .lg\:px-8.sm\:px-6.px-4.pb-15.mx-auto.max-w-screen-xl
+
+! 5 เม.ย. 2569 https://www.anime-zuzu.com
+www.anime-zuzu.com##.figure02
+www.anime-zuzu.com##.white_content3
+www.anime-zuzu.com##.white_content2
+||www.anime-zuzu.com/Anime-Suba/Admin/*$image
