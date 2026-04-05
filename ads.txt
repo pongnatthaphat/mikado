@@ -117,6 +117,17 @@ anime-infy.com##.m-0.row
 anime-infy.com##.text-center.watch-bnn
 anime-infy.com##.video-content.watch-bnn
 
+! 5 เม.ย. 2569 https://lnwanime.com
+lnwanime.com##.floating-ads-l
+lnwanime.com##.floating-ads-r
+lnwanime.com##.floating-ads-b
+lnwanime.com##div > .lg\:px-8.sm\:px-6.px-4.pb-15.mx-auto.max-w-screen-xl
+||dev-tools.shirokami.me/video/*.mp4$media
+
+! 5 เม.ย. 2569 https://streaming.tonytonychopper.com
+||cdend.com/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufazeed.mp4$media
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/huayhit88.mp4$media
+
 
 
 
