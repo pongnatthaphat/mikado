@@ -1,4 +1,5 @@
-||googles.video^
-||cdend.com^
+||googles.video/$media,redirect=noopmp3-0.1s
+||cdend.com^$media,redirect=noopmp3-0.1s
+||movie285.com/*.gif$image
 fairyanime.net##[href="https://googles.video"]
 fairyanime.net##[href="https://cdend.com"]
