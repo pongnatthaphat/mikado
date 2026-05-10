@@ -135,8 +135,8 @@ www.rongyok.com###modal-content-yolg1l1tj
 www.rongyok.com###content-modal-overlay-cdmxr4bsy
 
 ! 9 เม.ย. 2569 https://bearbit.org
-bearbit.org##.outer > div
-bearbit.org##.outer > table > tbody > tr > td > div
+! bearbit.org##.outer > div
+! bearbit.org##.outer > table > tbody > tr > td > div
 
 ! 10 เม.ย. 2569 https://www.youtube.com
 www.youtube.com###masthead-ad
