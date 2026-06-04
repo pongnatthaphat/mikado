@@ -7,6 +7,11 @@
 indy-anime.net##.mb-no-p.bg-none.container.a_head
 indy-anime.net##.d-inline-block.watch-bnn
 indy-anime.net##.py-2.video-content.watch-bnn
+! 4 มิ.ย. 2569 https://indy-anime.net
+indy-anime.net##.mb-no-p.bg-none.container.a_head
+indy-anime.net##.d-inline-block.watch-bnn
+indy.team-indy.net###overlay
+
 
 ! 20 พ.ย. 2567 https://www.animehdzeroo.com
 ||img.shirokami.me/images/202*/*/*/*.gif$image
@@ -150,7 +155,25 @@ www2.avkuy.com###ads_09
 animemeiji.com##.p-0.ads-zone.col-sm-12
 animemeiji.com##.m-0.row
 
+! 27 พ.ค. 2569 https://lnwanime.com
+lnwanime.com##.floating-ads-b
+lnwanime.com##.lg\:px-8.sm\:px-6.px-4.pb-15.mx-auto.max-w-screen-xl
+lnwanime.com##.floating-ads-r-img
+lnwanime.com##.floating-ads-l-img
 
+! 27 พ.ค. 2569 https://anime-hdzero.com
+anime-hdzero.com##.mb-3.rounded-lg.overflow-hidden.w-full.block.player-ad-slot > .w-full.h-auto.block
 
+! 3 มิ.ย. 2569 https://anime-hd-zero.com
+anime-hd-zero.com##.mb-3.rounded-lg.overflow-hidden.w-full.block.player-ad-slot
 
+! 4 มิ.ย. 2569 https://037-anime.com
+037-anime.com##.vipx-link
+
+! 4 มิ.ย. 2569 https://lnwani-me.com
+lnwani-me.com##.pt-4.px-4.max-w-7xl.mx-auto
+lnwani-me.com##.floating-ads-l-img
+lnwani-me.com##.floating-ads-r-img
+lnwani-me.com##.floating-ads-b-img
+lnwani-me.com###ads_04 > div > .close-ads
 
